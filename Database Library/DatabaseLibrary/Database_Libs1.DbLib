@@ -1,0 +1,119 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Ýrem\Desktop\Altium Ders\DatabaseLibrary\library.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Resistor
+[Table1]
+SchemaName=
+TableName=Capacitor
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=159|Library Path0=187|Footprint Path0=189|Footprint Ref0=141|Description0=780|Component0=98|Value0=59|Help URL0=82|Manufacturer Part Number0=199|Supplier 10=86|Supplier Part Number 10=263|Manufacturer0=116|RoHS0=58|Category0=210|Stock 10=70|Pricing 10=1330|Mount0=128|Case/Package0=109|Dielectric Material0=134|Min Operating Temperature0=197|Max Operating Temperature0=199|Capacitance0=98|Tolerance0=83|Voltage Rating (DC)0=146|Dielectric0=80|Length0=68|Height0=66|Depth0=63|ComponentLink1URL0=755|ComponentLink1Description0=755|ComponentLink2URL0=705|ComponentLink2Description0=705|ComponentLink3URL0=793|ComponentLink3Description0=793|ComponentLink4URL0=817|ComponentLink4Description0=817|Number of Pins0=120|Case Code (Metric)0=141|Case Code (Imperial)0=151|Packaging0=95|Voltage Rating0=115|Package Quantity0=133|Termination0=98|Voltage0=72|Dissipation Factor0=134|Width0=70|Thickness0=83|Contact Plating0=119|Material0=76|Life (Hours)0=95|Ripple Current0=113|Leakage Current0=126|Polarity0=71|ESR (Equivalent Series Resistance)0=228|Ripple Current (AC)0=143|Diameter0=81|Height - Seated (Max)0=159|Lead Pitch0=88|Radiation Hardening0=150|REACH SVHC0=107|Lead Free0=84|ComponentLink5URL0=686|ComponentLink5Description0=686|ComponentLink6URL0=617|ComponentLink6Description0=617|ComponentLink7URL0=670|ComponentLink7Description0=670|ComponentLink8URL0=574|ComponentLink8Description0=574|ComponentLink9URL0=156|ComponentLink10URL0=164|ComponentLink11URL0=164|ComponentLink12URL0=164|Lead Diameter0=114|Lead Length0=101|Voltage Rating (AC)0=145|Lead/Base Style0=120|Weight0=72|Composition0=103|Ratings0=76|Contact Material0=127|Housing Color0=113|Housing Material0=130|Color0=58|Number of Rows0=127|Max Current Rating0=145|Max Voltage Rating (AC)0=175|Number of Contacts0=149|Orientation0=95|Gender0=70|Number of Positions0=150|Connector Type0=122|Current Rating0=115|Pitch0=55|Contact Mating Length0=168|Direction0=80|Clamping Voltage0=134|Peak Pulse Power0=132|Reverse Standoff Voltage0=178|Min Breakdown Voltage0=172|Max Reverse Leakage Current0=207|Test Current0=101|Peak Pulse Current0=141|Element Configuration0=162|Reverse Breakdown Voltage0=195|Operating Supply Voltage0=183|Max Surge Current0=141|Number of Elements0=150|Breakdown Voltage0=144|Number of Unidirectional Channels0=239|Power Line Protection0=159|Max Breakdown Voltage0=174|Power Dissipation0=134|Max Power Dissipation0=164|ESD Protection0=116|Reverse Recovery Time0=164|Peak Reverse Current0=156|Peak Non-Repetitive Surge Current0=240|Max Repetitive Reverse Voltage (Vrrm)0=260|Recovery Time0=113|Forward Voltage0=126|Average Rectified Current0=181|Max Reverse Voltage (DC)0=184|Reverse Voltage0=123|Forward Current0=126|Max Forward Surge Current (Ifsm)0=233|Output Current0=121|Halogen Free0=106|Zener Voltage0=111|Impedance0=92|Voltage Tolerance0=134
+[Table2]
+SchemaName=
+TableName=Diode
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=90|Library Path0=171|Footprint Path0=167|Footprint Ref0=183|Description0=500|Component0=98|Value0=59|Help URL0=82|Manufacturer Part Number0=191|Supplier 10=86|Supplier Part Number 10=169|Manufacturer0=189|RoHS0=58|Category0=154|Stock 10=70|Pricing 10=1492|Mount0=100|Case/Package0=109|Dielectric Material0=134|Min Operating Temperature0=197|Max Operating Temperature0=199|Capacitance0=98|Tolerance0=83|Voltage Rating (DC)0=146|Dielectric0=80|Length0=70|Height0=66|Depth0=63|ComponentLink1URL0=613|ComponentLink1Description0=613|ComponentLink2URL0=501|ComponentLink2Description0=501|ComponentLink3URL0=574|ComponentLink3Description0=574|ComponentLink4URL0=595|ComponentLink4Description0=595|Number of Pins0=120|Contact Plating0=119|Packaging0=87|Lead/Base Style0=120|Package Quantity0=133|Voltage Rating0=115|Termination0=98|Composition0=103|Lead Pitch0=88|Height - Seated (Max)0=159|Lead Diameter0=114|Lead Free0=84|REACH SVHC0=107|Case Code (Imperial)0=151|Case Code (Metric)0=141|Ratings0=70|Width0=94|Thickness0=83|Radiation Hardening0=150|Ripple Current0=113|Leakage Current0=126|Voltage0=72|ESR (Equivalent Series Resistance)0=228|Diameter0=81|Lead Length0=101|ComponentLink5URL0=524|ComponentLink5Description0=524|ComponentLink6URL0=501|ComponentLink6Description0=501|ComponentLink7URL0=501|ComponentLink7Description0=501|Voltage Rating (AC)0=863|Weight0=863|ComponentLink9URL0=156|ComponentLink10URL0=164|ComponentLink11URL0=164|ComponentLink12URL0=164|Lead Diameter10=122|Lead Length10=109|Voltage Rating (AC)10=153|Lead/Base Style10=128|Weight10=77|Composition10=111|Ratings10=78|Contact Material0=127|Housing Color0=113|Housing Material0=130|Color0=58|Number of Rows0=127|Max Current Rating0=145|Max Voltage Rating (AC)0=175|Number of Contacts0=149|Orientation0=95|Gender0=70|Number of Positions0=150|Connector Type0=122|Current Rating0=115|Pitch0=55|Contact Mating Length0=168|Direction0=94|Clamping Voltage0=134|Peak Pulse Power0=132|Reverse Standoff Voltage0=178|Min Breakdown Voltage0=172|Max Reverse Leakage Current0=207|Test Current0=101|Peak Pulse Current0=141|Element Configuration0=162|Reverse Breakdown Voltage0=195|Operating Supply Voltage0=183|Max Surge Current0=141|Number of Elements0=150|Breakdown Voltage0=144|Number of Unidirectional Channels0=239|Power Line Protection0=159|Max Breakdown Voltage0=174|Power Dissipation0=134|Max Power Dissipation0=164|ESD Protection0=116|Reverse Recovery Time0=164|Peak Reverse Current0=156|Peak Non-Repetitive Surge Current0=240|Max Repetitive Reverse Voltage (Vrrm)0=260|Recovery Time0=113|Forward Voltage0=126|Average Rectified Current0=181|Max Reverse Voltage (DC)0=184|Reverse Voltage0=123|Forward Current0=126|Max Forward Surge Current (Ifsm)0=233|Output Current0=121|Halogen Free0=106|Zener Voltage0=111|Impedance0=92|Voltage Tolerance0=134
+[Table3]
+SchemaName=
+TableName=Fuse
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=90|Library Path0=157|Footprint Path0=159|Footprint Ref0=223|Description0=507|Component0=98|Value0=59|Help URL0=82|Manufacturer Part Number0=191|Supplier 10=86|Supplier Part Number 10=169|Manufacturer0=108|RoHS0=58|Category0=81|Stock 10=70|Pricing 10=578|Mount0=138|Number of Pins0=120|Housing Material0=130|Body Material0=110|Contact Plating0=119|Contact Material0=127|Min Operating Temperature0=197|Max Operating Temperature0=199|Current Rating0=115|Packaging0=87|Voltage Rating (DC)0=146|Fuse Type0=106|Voltage Rating (AC)0=145|Package Quantity0=133|DC Cold Resistance0=143|Fuse Current0=104|Voltage Rating0=115|Termination0=98|Resistance0=88|Working Voltage0=128|Power Dissipation0=134|Diameter0=81|Length0=68|Radiation Hardening0=150|Lead Free0=84|Approvals0=256|REACH SVHC0=107|ComponentLink1URL0=573|ComponentLink1Description0=573
+[Table4]
+SchemaName=
+TableName=Others
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=Library Ref0=Up
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=118|Library Path0=159|Footprint Path0=161|Footprint Ref0=256|Description0=876|Component0=98|Value0=76|Help URL0=82|Manufacturer Part Number0=191|Supplier 10=86|Supplier Part Number 10=169|Manufacturer0=189|RoHS0=58|Category0=180|Stock 10=70|Pricing 10=594|Case/Package0=109|Number of Pins0=120|Min Operating Temperature0=197|Max Operating Temperature0=199|Output Current0=121|Package Quantity0=133|Number of Outputs0=146|Packaging0=95|Nominal Supply Current0=172|Max Supply Current0=147|On-State Resistance0=148|Interface0=78|Number of Channels0=508|Min Dual Supply Voltage0=508|Max Output Current0=497|REACH SVHC0=497|Halogen Free0=625|ComponentLink1URL0=842|ComponentLink1Description0=842|ComponentLink2URL0=647|ComponentLink2Description0=647|ComponentLink3URL0=647|ComponentLink3Description0=647|ComponentLink4URL0=647|ComponentLink4Description0=647|Mount0=100|Weight0=83|Case Code (Imperial)0=151|Case Code (Metric)0=141|Contact Plating0=119|Resistance0=88|Tolerance0=83|Temperature Coefficient0=171|Composition0=103|Max Power Dissipation0=164|Number of Terminations0=174|Features0=77|Power Rating0=106|Voltage Rating0=115|Termination0=98|Voltage Rating (DC)0=146|Military Standard0=130|Length0=70|Height0=67|Width0=70|Depth0=487|Radiation Hardening0=487|Lead Free0=487|ComponentLink5URL0=552|ComponentLink5Description0=552|ComponentLink6URL0=511|ComponentLink6Description0=511|ComponentLink7URL0=511|ComponentLink7Description0=511|ComponentLink8URL0=581|ComponentLink8Description0=581|ComponentLink9URL0=156|ComponentLink9Description0=200|Core Material0=108|Current Rating0=115|Current0=72|Impedance0=92|Number of Lines0=126|DC Resistance (DCR)0=150|Max DC Current0=125|Test Frequency0=117|Max Current Rating0=145|Inductance0=92|Inductance Tolerance0=154|Self Resonant Frequency0=174|Number of Terminals0=153|Min Supply Voltage0=145|Max Supply Voltage0=147|Number of Inputs0=134|Turn-On Delay Time0=149|Propagation Delay0=138|Number of Circuits0=140|Logic Function0=114|Number of Elements0=150|Low Level Output Current0=185|Quiescent Current0=137|High Level Output Current0=189|Number of Gates0=130|Schmitt Trigger Input0=155|Max Reverse Leakage Current0=207|Test Current0=101|Peak Pulse Current0=141|Element Configuration0=162|Reverse Breakdown Voltage0=195|Operating Supply Voltage0=183|Max Surge Current0=141|Number of Elements10=158|Breakdown Voltage0=144|Number of Unidirectional Channels0=239|Power Line Protection0=159|Max Breakdown Voltage0=174|Power Dissipation0=134|Max Power Dissipation10=172|ESD Protection0=116|Reverse Recovery Time0=164|Peak Reverse Current0=156|Peak Non-Repetitive Surge Current0=240|Max Repetitive Reverse Voltage (Vrrm)0=260|Recovery Time0=113|Forward Voltage0=126|Average Rectified Current0=181|Max Reverse Voltage (DC)0=184|Reverse Voltage0=123|Forward Current0=126|Max Forward Surge Current (Ifsm)0=233|Output Current10=129|Halogen Free10=114|Zener Voltage0=111|Impedance10=100|Voltage Tolerance0=134
+[Table5]
+SchemaName=
+TableName=Resistor
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=Footprint Ref0=Down
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=90|Library Path0=177|Footprint Path0=179|Footprint Ref0=159|Description0=868|Manufacturer Part Number0=191|Component0=98|Value0=59|Help URL0=82|Supplier 10=86|Supplier Part Number 10=169|Manufacturer0=136|RoHS0=58|Category0=154|Stock 10=70|Pricing 10=746|Mount0=133|Case/Package0=109|Number of Pins0=120|Weight0=83|Case Code (Imperial)0=151|Case Code (Metric)0=141|Contact Plating0=119|Min Operating Temperature0=197|Max Operating Temperature0=199|Resistance0=88|Tolerance0=83|Temperature Coefficient0=171|Packaging0=95|Composition0=103|Max Power Dissipation0=164|Number of Terminations0=174|Features0=162|Power Rating0=106|Voltage Rating0=115|Termination0=98|Package Quantity0=133|Voltage Rating (DC)0=146|Military Standard0=130|Length0=70|Height0=70|Width0=70|Depth0=63|Radiation Hardening0=150|Lead Free0=84|REACH SVHC0=107|ComponentLink1URL0=625|ComponentLink1Description0=625|ComponentLink2URL0=623|ComponentLink2Description0=623|ComponentLink3URL0=724|ComponentLink3Description0=724|ComponentLink4URL0=574|ComponentLink4Description0=574|ComponentLink5URL0=631|ComponentLink5Description0=631|ComponentLink6URL0=567|ComponentLink6Description0=567|ComponentLink7URL0=574|ComponentLink7Description0=574|ComponentLink8URL0=538|ComponentLink8Description0=538|ComponentLink9URL0=524|ComponentLink9Description0=524|Working Voltage0=128|Height - Seated (Max)0=159|Energy0=67|Varistor Voltage0=124|Max Voltage Rating (AC)0=175|Max Voltage Rating (DC)0=176|Clamping Voltage0=134|Clamping Current0=134|Voltage Tolerance0=134|Lead/Base Style0=120|Capacitance0=98|Voltage Rating (AC)0=145|Max Surge Current0=141|Current Rating0=115|Diameter0=81|Lead Pitch0=88|Lead Length0=101|Thickness0=83
+[FieldMap1]
+Options=FieldName=Capacitor.Library Ref|TableNameOnly=Capacitor|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Capacitor.Library Path|TableNameOnly=Capacitor|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Capacitor.Footprint Path|TableNameOnly=Capacitor|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Capacitor.Footprint Ref|TableNameOnly=Capacitor|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Capacitor.Description|TableNameOnly=Capacitor|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Diode.Library Ref|TableNameOnly=Diode|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Diode.Library Path|TableNameOnly=Diode|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Diode.Footprint Path|TableNameOnly=Diode|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Diode.Footprint Ref|TableNameOnly=Diode|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Diode.Description|TableNameOnly=Diode|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Fuse.Library Ref|TableNameOnly=Fuse|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Fuse.Library Path|TableNameOnly=Fuse|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Fuse.Footprint Path|TableNameOnly=Fuse|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Fuse.Footprint Ref|TableNameOnly=Fuse|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Fuse.Description|TableNameOnly=Fuse|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Others.Library Ref|TableNameOnly=Others|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Others.Library Path|TableNameOnly=Others|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Others.Footprint Path|TableNameOnly=Others|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Others.Footprint Ref|TableNameOnly=Others|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Others.Description|TableNameOnly=Others|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Resistor.Library Ref|TableNameOnly=Resistor|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Resistor.Library Path|TableNameOnly=Resistor|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Resistor.Footprint Path|TableNameOnly=Resistor|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Resistor.Footprint Ref|TableNameOnly=Resistor|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Resistor.Description|TableNameOnly=Resistor|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Resistor.Manufacturer Part Number|TableNameOnly=Resistor|FieldNameOnly=Manufacturer Part Number|FieldType=0|ParameterName=Manufacturer Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
